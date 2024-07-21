@@ -1,3 +1,5 @@
+
+![Banner Image](https://github.com/gxkulgk/gxkulgk/blob/main/banner.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Gokul S</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
